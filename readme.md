@@ -2,6 +2,13 @@
 
 ![](./docs/public/banner.png)
 
+## Workshop Attendee Atakan's Notes
+- Codebase built is in the workshop subdirectory.
+- The agent lives in Microsoft Foundry, and the design and implementation follows the workshop guidelines.
+
+Here's a screenshot of an ordered pizza! :)
+![](./workshop/pizza_ordered.png)
+
 ## Workshop Overview  
 
 In this hands-on session, you’ll learn how to build intelligent, domain-specific AI agents using **Microsoft Foundry Agent Service**.  
