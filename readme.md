@@ -6,7 +6,8 @@
 - Codebase built is in the workshop subdirectory.
 - The agent lives in Microsoft Foundry, and the design and implementation follows the workshop guidelines.
 
-Here's a screenshot of an ordered pizza! :)
+Here are screenshots of an example chat and an ordered pizza 
+![](./workshop/order_chat.png)
 ![](./workshop/pizza_ordered.png)
 
 ## Workshop Overview  
